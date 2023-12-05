@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="new_user_sign_up"><a href="activity_second.xml">new user ?/sign up</a></string>
+    <string name="forgot_password"><a href="">forgot password?</a></string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="app_name1">aba</string>
+</resources>
